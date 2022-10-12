@@ -1,6 +1,6 @@
 # Equalizer-
 Graphic Equalizer with Matlab GUIDE/App Designer and Simulink Model
-Instructions
+
 Start – song is played upon triggered.
 Play Next – 2nd stage of the experiment.
 Reset Gain – all sliders are set to 0 dB gain.
