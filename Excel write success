@@ -1,0 +1,5443 @@
+%!PS-Adobe-3.0
+%%Creator: (MATLAB, The Mathworks, Inc. Version 9.11.0.1873467 \(R2021b\) Update 3. Operating System: Windows 10)
+%%Title: (./Excel write success.)
+%%CreationDate: 2022-04-08T15:26:48
+%%Pages: (atend)
+%%BoundingBox:    22   192   584   607
+%%LanguageLevel: 3
+%%EndComments
+%%BeginDefaults
+%%EndDefaults
+%%BeginProlog
+%%EndProlog
+%%BeginSetup
+%%BeginResource: procset (Apache XML Graphics Std ProcSet) 1.2 0
+%%Version: 1.2 0
+%%Copyright: (Copyright 2001-2003,2010 The Apache Software Foundation. License terms: http://www.apache.org/licenses/LICENSE-2.0)
+/bd{bind def}bind def
+/ld{load def}bd
+/GR/grestore ld
+/GS/gsave ld
+/RM/rmoveto ld
+/C/curveto ld
+/t/show ld
+/L/lineto ld
+/ML/setmiterlimit ld
+/CT/concat ld
+/f/fill ld
+/N/newpath ld
+/S/stroke ld
+/CC/setcmykcolor ld
+/A/ashow ld
+/cp/closepath ld
+/RC/setrgbcolor ld
+/LJ/setlinejoin ld
+/GC/setgray ld
+/LW/setlinewidth ld
+/M/moveto ld
+/re {4 2 roll M
+1 index 0 rlineto
+0 exch rlineto
+neg 0 rlineto
+cp } bd
+/_ctm matrix def
+/_tm matrix def
+/BT { _ctm currentmatrix pop matrix _tm copy pop 0 0 moveto } bd
+/ET { _ctm setmatrix } bd
+/iTm { _ctm setmatrix _tm concat } bd
+/Tm { _tm astore pop iTm 0 0 moveto } bd
+/ux 0.0 def
+/uy 0.0 def
+/F {
+  /Tp exch def
+  /Tf exch def
+  Tf findfont Tp scalefont setfont
+  /cf Tf def  /cs Tp def
+} bd
+/ULS {currentpoint /uy exch def /ux exch def} bd
+/ULE {
+  /Tcx currentpoint pop def
+  gsave
+  newpath
+  cf findfont cs scalefont dup
+  /FontMatrix get 0 get /Ts exch def /FontInfo get dup
+  /UnderlinePosition get Ts mul /To exch def
+  /UnderlineThickness get Ts mul /Tt exch def
+  ux uy To add moveto  Tcx uy To add lineto
+  Tt setlinewidth stroke
+  grestore
+} bd
+/OLE {
+  /Tcx currentpoint pop def
+  gsave
+  newpath
+  cf findfont cs scalefont dup
+  /FontMatrix get 0 get /Ts exch def /FontInfo get dup
+  /UnderlinePosition get Ts mul /To exch def
+  /UnderlineThickness get Ts mul /Tt exch def
+  ux uy To add cs add moveto Tcx uy To add cs add lineto
+  Tt setlinewidth stroke
+  grestore
+} bd
+/SOE {
+  /Tcx currentpoint pop def
+  gsave
+  newpath
+  cf findfont cs scalefont dup
+  /FontMatrix get 0 get /Ts exch def /FontInfo get dup
+  /UnderlinePosition get Ts mul /To exch def
+  /UnderlineThickness get Ts mul /Tt exch def
+  ux uy To add cs 10 mul 26 idiv add moveto Tcx uy To add cs 10 mul 26 idiv add lineto
+  Tt setlinewidth stroke
+  grestore
+} bd
+/QT {
+/Y22 exch store
+/X22 exch store
+/Y21 exch store
+/X21 exch store
+currentpoint
+/Y21 load 2 mul add 3 div exch
+/X21 load 2 mul add 3 div exch
+/X21 load 2 mul /X22 load add 3 div
+/Y21 load 2 mul /Y22 load add 3 div
+/X22 load /Y22 load curveto
+} bd
+/SSPD {
+dup length /d exch dict def
+{
+/v exch def
+/k exch def
+currentpagedevice k known {
+/cpdv currentpagedevice k get def
+v cpdv ne {
+/upd false def
+/nullv v type /nulltype eq def
+/nullcpdv cpdv type /nulltype eq def
+nullv nullcpdv or
+{
+/upd true def
+} {
+/sametype v type cpdv type eq def
+sametype {
+v type /arraytype eq {
+/vlen v length def
+/cpdvlen cpdv length def
+vlen cpdvlen eq {
+0 1 vlen 1 sub {
+/i exch def
+/obj v i get def
+/cpdobj cpdv i get def
+obj cpdobj ne {
+/upd true def
+exit
+} if
+} for
+} {
+/upd true def
+} ifelse
+} {
+v type /dicttype eq {
+v {
+/dv exch def
+/dk exch def
+/cpddv cpdv dk get def
+dv cpddv ne {
+/upd true def
+exit
+} if
+} forall
+} {
+/upd true def
+} ifelse
+} ifelse
+} if
+} ifelse
+upd true eq {
+d k v put
+} if
+} if
+} if
+} forall
+d length 0 gt {
+d setpagedevice
+} if
+} bd
+/RE { % /NewFontName [NewEncodingArray] /FontName RE -
+  findfont dup length dict begin
+  {
+    1 index /FID ne
+    {def} {pop pop} ifelse
+  } forall
+  /Encoding exch def
+  /FontName 1 index def
+  currentdict definefont pop
+  end
+} bind def
+%%EndResource
+%%BeginResource: procset (Apache XML Graphics EPS ProcSet) 1.0 0
+%%Version: 1.0 0
+%%Copyright: (Copyright 2002-2003 The Apache Software Foundation. License terms: http://www.apache.org/licenses/LICENSE-2.0)
+/BeginEPSF { %def
+/b4_Inc_state save def         % Save state for cleanup
+/dict_count countdictstack def % Count objects on dict stack
+/op_count count 1 sub def      % Count objects on operand stack
+userdict begin                 % Push userdict on dict stack
+/showpage { } def              % Redefine showpage, { } = null proc
+0 setgray 0 setlinecap         % Prepare graphics state
+1 setlinewidth 0 setlinejoin
+10 setmiterlimit [ ] 0 setdash newpath
+/languagelevel where           % If level not equal to 1 then
+{pop languagelevel             % set strokeadjust and
+1 ne                           % overprint to their defaults.
+{false setstrokeadjust false setoverprint
+} if
+} if
+} bd
+/EndEPSF { %def
+count op_count sub {pop} repeat            % Clean up stacks
+countdictstack dict_count sub {end} repeat
+b4_Inc_state restore
+} bd
+%%EndResource
+%FOPBeginFontDict
+%%IncludeResource: font Courier-Oblique
+%%IncludeResource: font Courier-BoldOblique
+%%IncludeResource: font Courier-Bold
+%%IncludeResource: font ZapfDingbats
+%%IncludeResource: font Symbol
+%%IncludeResource: font Helvetica
+%%IncludeResource: font Helvetica-Oblique
+%%IncludeResource: font Helvetica-Bold
+%%IncludeResource: font Helvetica-BoldOblique
+%%IncludeResource: font Times-Roman
+%%IncludeResource: font Times-Italic
+%%IncludeResource: font Times-Bold
+%%IncludeResource: font Times-BoldItalic
+%%IncludeResource: font Courier
+%FOPEndFontDict
+%%BeginResource: encoding WinAnsiEncoding
+/WinAnsiEncoding [
+/.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /space /exclam /quotedbl
+/numbersign /dollar /percent /ampersand /quotesingle
+/parenleft /parenright /asterisk /plus /comma
+/hyphen /period /slash /zero /one
+/two /three /four /five /six
+/seven /eight /nine /colon /semicolon
+/less /equal /greater /question /at
+/A /B /C /D /E
+/F /G /H /I /J
+/K /L /M /N /O
+/P /Q /R /S /T
+/U /V /W /X /Y
+/Z /bracketleft /backslash /bracketright /asciicircum
+/underscore /quoteleft /a /b /c
+/d /e /f /g /h
+/i /j /k /l /m
+/n /o /p /q /r
+/s /t /u /v /w
+/x /y /z /braceleft /bar
+/braceright /asciitilde /bullet /Euro /bullet
+/quotesinglbase /florin /quotedblbase /ellipsis /dagger
+/daggerdbl /circumflex /perthousand /Scaron /guilsinglleft
+/OE /bullet /Zcaron /bullet /bullet
+/quoteleft /quoteright /quotedblleft /quotedblright /bullet
+/endash /emdash /asciitilde /trademark /scaron
+/guilsinglright /oe /bullet /zcaron /Ydieresis
+/space /exclamdown /cent /sterling /currency
+/yen /brokenbar /section /dieresis /copyright
+/ordfeminine /guillemotleft /logicalnot /sfthyphen /registered
+/macron /degree /plusminus /twosuperior /threesuperior
+/acute /mu /paragraph /middot /cedilla
+/onesuperior /ordmasculine /guillemotright /onequarter /onehalf
+/threequarters /questiondown /Agrave /Aacute /Acircumflex
+/Atilde /Adieresis /Aring /AE /Ccedilla
+/Egrave /Eacute /Ecircumflex /Edieresis /Igrave
+/Iacute /Icircumflex /Idieresis /Eth /Ntilde
+/Ograve /Oacute /Ocircumflex /Otilde /Odieresis
+/multiply /Oslash /Ugrave /Uacute /Ucircumflex
+/Udieresis /Yacute /Thorn /germandbls /agrave
+/aacute /acircumflex /atilde /adieresis /aring
+/ae /ccedilla /egrave /eacute /ecircumflex
+/edieresis /igrave /iacute /icircumflex /idieresis
+/eth /ntilde /ograve /oacute /ocircumflex
+/otilde /odieresis /divide /oslash /ugrave
+/uacute /ucircumflex /udieresis /yacute /thorn
+/ydieresis
+] def
+%%EndResource
+%FOPBeginFontReencode
+/Courier-Oblique findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding WinAnsiEncoding def
+  currentdict
+end
+/Courier-Oblique exch definefont pop
+/Courier-BoldOblique findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding WinAnsiEncoding def
+  currentdict
+end
+/Courier-BoldOblique exch definefont pop
+/Courier-Bold findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding WinAnsiEncoding def
+  currentdict
+end
+/Courier-Bold exch definefont pop
+/Helvetica findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding WinAnsiEncoding def
+  currentdict
+end
+/Helvetica exch definefont pop
+/Helvetica-Oblique findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding WinAnsiEncoding def
+  currentdict
+end
+/Helvetica-Oblique exch definefont pop
+/Helvetica-Bold findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding WinAnsiEncoding def
+  currentdict
+end
+/Helvetica-Bold exch definefont pop
+/Helvetica-BoldOblique findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding WinAnsiEncoding def
+  currentdict
+end
+/Helvetica-BoldOblique exch definefont pop
+/Times-Roman findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding WinAnsiEncoding def
+  currentdict
+end
+/Times-Roman exch definefont pop
+/Times-Italic findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding WinAnsiEncoding def
+  currentdict
+end
+/Times-Italic exch definefont pop
+/Times-Bold findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding WinAnsiEncoding def
+  currentdict
+end
+/Times-Bold exch definefont pop
+/Times-BoldItalic findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding WinAnsiEncoding def
+  currentdict
+end
+/Times-BoldItalic exch definefont pop
+/Courier findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding WinAnsiEncoding def
+  currentdict
+end
+/Courier exch definefont pop
+%FOPEndFontReencode
+%%EndSetup
+%%Page: 1 1
+%%PageBoundingBox: 0 0 612 792
+%%BeginPageSetup
+<<
+/PageSize [612 792]
+/ImagingBBox null
+>> setpagedevice
+[1 0 0 -1 0 792] CT
+%%EndPageSetup
+GS
+[0.6 0 0 0.6 18 180] CT
+1 GC
+N
+0 0 960 720 re
+f
+GR
+GS
+[0.6 0 0 0.6 22.2 185.4] CT
+N
+0 0 M
+0 690 L
+936 690 L
+936 0 L
+cp
+clip
+0.941 GC
+N
+0 0 936 690 re
+f
+GR
+GS
+[0.6 0 0 0.6 22.2 185.4] CT
+N
+0 0 M
+0 690 L
+936 690 L
+936 0 L
+cp
+clip
+0.94 GC
+N
+0 0 936 690 re
+f
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+0 -8 M
+6 -8 L
+6 682 L
+0 682 L
+0 -8 L
+cp
+clip
+0.7 GC
+N
+0 0 M
+1 0 L
+1 681 L
+0 682 L
+0 0 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+0 -8 M
+6 -8 L
+6 682 L
+0 682 L
+0 -8 L
+cp
+clip
+0.7 GC
+N
+0 0 M
+936 0 L
+935 1 L
+0 1 L
+0 0 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+0 -8 M
+6 -8 L
+6 682 L
+0 682 L
+0 -8 L
+cp
+clip
+1 GC
+N
+936 0 M
+935 1 L
+935 682 L
+936 682 L
+936 0 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+0 -8 M
+6 -8 L
+6 682 L
+0 682 L
+0 -8 L
+cp
+clip
+1 GC
+N
+1 681 M
+936 681 L
+936 682 L
+0 682 L
+1 681 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+1 GC
+N
+1 1 M
+2 1 L
+2 681 L
+1 681 L
+1 1 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+0 -8 M
+6 -8 L
+6 682 L
+0 682 L
+0 -8 L
+cp
+clip
+1 GC
+N
+1 1 M
+935 1 L
+934 2 L
+1 2 L
+1 1 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+0 -8 M
+6 -8 L
+6 682 L
+0 682 L
+0 -8 L
+cp
+clip
+0.7 GC
+N
+934 2 M
+935 1 L
+935 681 L
+934 681 L
+934 2 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+0 -8 M
+6 -8 L
+6 682 L
+0 682 L
+0 -8 L
+cp
+clip
+0.7 GC
+N
+935 680 M
+935 681 L
+1 681 L
+2 680 L
+935 680 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+47 -8 M
+936 -8 L
+936 682 L
+47 682 L
+47 -8 L
+cp
+clip
+0.7 GC
+N
+0 0 M
+1 0 L
+1 681 L
+0 682 L
+0 0 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+47 -8 M
+936 -8 L
+936 682 L
+47 682 L
+47 -8 L
+cp
+clip
+0.7 GC
+N
+0 0 M
+936 0 L
+935 1 L
+0 1 L
+0 0 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+47 -8 M
+936 -8 L
+936 682 L
+47 682 L
+47 -8 L
+cp
+clip
+1 GC
+N
+936 0 M
+935 1 L
+935 682 L
+936 682 L
+936 0 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+47 -8 M
+936 -8 L
+936 682 L
+47 682 L
+47 -8 L
+cp
+clip
+1 GC
+N
+1 681 M
+936 681 L
+936 682 L
+0 682 L
+1 681 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+47 -8 M
+936 -8 L
+936 682 L
+47 682 L
+47 -8 L
+cp
+clip
+1 GC
+N
+1 1 M
+2 1 L
+2 681 L
+1 681 L
+1 1 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+47 -8 M
+936 -8 L
+936 682 L
+47 682 L
+47 -8 L
+cp
+clip
+1 GC
+N
+1 1 M
+935 1 L
+934 2 L
+1 2 L
+1 1 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+0.7 GC
+N
+934 2 M
+935 1 L
+935 681 L
+934 681 L
+934 2 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+47 -8 M
+936 -8 L
+936 682 L
+47 682 L
+47 -8 L
+cp
+clip
+0.7 GC
+N
+935 680 M
+935 681 L
+1 681 L
+2 680 L
+935 680 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+6 9 M
+47 9 L
+47 682 L
+6 682 L
+6 9 L
+cp
+clip
+0.7 GC
+N
+0 0 M
+1 0 L
+1 681 L
+0 682 L
+0 0 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+6 9 M
+47 9 L
+47 682 L
+6 682 L
+6 9 L
+cp
+clip
+0.7 GC
+N
+0 0 M
+936 0 L
+935 1 L
+0 1 L
+0 0 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+6 9 M
+47 9 L
+47 682 L
+6 682 L
+6 9 L
+cp
+clip
+1 GC
+N
+936 0 M
+935 1 L
+935 682 L
+936 682 L
+936 0 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+6 9 M
+47 9 L
+47 682 L
+6 682 L
+6 9 L
+cp
+clip
+1 GC
+N
+1 681 M
+936 681 L
+936 682 L
+0 682 L
+1 681 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+6 9 M
+47 9 L
+47 682 L
+6 682 L
+6 9 L
+cp
+clip
+1 GC
+N
+1 1 M
+2 1 L
+2 681 L
+1 681 L
+1 1 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+6 9 M
+47 9 L
+47 682 L
+6 682 L
+6 9 L
+cp
+clip
+1 GC
+N
+1 1 M
+935 1 L
+934 2 L
+1 2 L
+1 1 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+6 9 M
+47 9 L
+47 682 L
+6 682 L
+6 9 L
+cp
+clip
+0.7 GC
+N
+934 2 M
+935 1 L
+935 681 L
+934 681 L
+934 2 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 190.2] CT
+N
+6 9 M
+47 9 L
+47 682 L
+6 682 L
+6 9 L
+cp
+clip
+0.7 GC
+N
+935 680 M
+935 681 L
+1 681 L
+2 680 L
+935 680 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 22.2 185.4] CT
+0.94 GC
+N
+6 0 45 18 re
+f
+GR
+GS
+[0.6 0 0 0.6 22.2 185.4] CT
+/Helvetica 13.333 F
+GS
+N
+0 -1 M
+937 -1 L
+937 691 L
+0 691 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 14 moveto 
+1 -1 scale
+(EqGUI) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 23.4 195.6] CT
+N
+0 0 M
+0 671 L
+932 671 L
+932 0 L
+cp
+clip
+0.94 GC
+N
+0 0 932 671 re
+f
+GR
+GS
+[0.6 0 0 0.6 111.6 225] CT
+N
+0 0 M
+0 47 L
+89 47 L
+89 0 L
+cp
+clip
+0.94 GC
+N
+0 0 89 47 re
+f
+GR
+GS
+[0.6 0 0 0.6 111.6 225] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 47 L
+89 47 L
+89 0 L
+cp
+clip
+GS
+0 0 translate
+89 47 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceRGB setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1 0 1 0 1]
+  /DataSource Data
+  /Height 47
+  /ImageMatrix [89 0 0 47 0 0]
+  /Width 89
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0J0bM2T$ii$]?jnMQI,.!F:^M_s\V?M%cG-?7MPu>gW/->0Ll/-eMPu>gW/->0Ll/-eMPu>gW/->0
+Ll/-eMPu>gW/->0Ll/-eMPu>gW/->0Ll/-eMS'ZTNt2Ide:7~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 111.6 225] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+89 0 L
+89 47 L
+-1 47 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+18 33 moveto 
+1 -1 scale
+(Start) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 117.6 291] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 302 L
+22 302 L
+22 0 L
+cp
+clip
+GS
+0 0 translate
+22 302 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceGray setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1]
+  /DataSource Data
+  /Height 302
+  /ImageMatrix [22 0 0 302 0 0]
+  /Width 22
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0SYmnJk$q/Kgfn*(=]%#Se6kR:(Fukj%r$rkTJC\A!Uf`Q&V/^UZ.T8o9-0LuM`'2p?YjT1s;Y&<^
+8OZJj78Xaf;%uGr'Lbk57FD&jmbI35:?&*I\1olKNmCb$NIgm`5QA6W2usYO<N,~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 78.6 291] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 303 L
+22 303 L
+22 0 L
+cp
+clip
+GS
+0 0 translate
+22 303 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceGray setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1]
+  /DataSource Data
+  /Height 303
+  /ImageMatrix [22 0 0 303 0 0]
+  /Width 22
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0SYmnJk$q/Kgfn*(=]%#Se6qN&gluWN%J*"Q\d/(tL'PfG71lfj]AL]./jP3`RfOs(Pb^6OVPW\V0
+;Ge,s;%uGr'Lbk578Xaf;&"F8DW5M7;t8<mg_bABa)BSWqS7?FT.b(3:=%I(T`~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 264 224.4] CT
+N
+0 0 M
+0 47 L
+89 47 L
+89 0 L
+cp
+clip
+0.941 GC
+N
+0 0 89 47 re
+f
+GR
+GS
+[0.6 0 0 0.6 264 224.4] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 47 L
+89 47 L
+89 0 L
+cp
+clip
+GS
+0 0 translate
+89 47 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceRGB setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1 0 1 0 1]
+  /DataSource Data
+  /Height 47
+  /ImageMatrix [89 0 0 47 0 0]
+  /Width 89
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0J0bM2T$ii$]?jnMQI,.!F:^M_s\V?M%cG-?7MPu>gW/->0Ll/-eMPu>gW/->0Ll/-eMPu>gW/->0
+Ll/-eMPu>gW/->0Ll/-eMPu>gW/->0Ll/-eMS'ZTNt2Ide:7~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 264 224.4] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+89 -1 L
+89 48 L
+0 48 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+1 33 moveto 
+1 -1 scale
+(Reset...) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 336.6 224.4] CT
+N
+0 0 M
+0 47 L
+89 47 L
+89 0 L
+cp
+clip
+0.94 GC
+N
+0 0 89 47 re
+f
+GR
+GS
+[0.6 0 0 0.6 336.6 224.4] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 47 L
+89 47 L
+89 0 L
+cp
+clip
+GS
+0 0 translate
+89 47 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceRGB setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1 0 1 0 1]
+  /DataSource Data
+  /Height 47
+  /ImageMatrix [89 0 0 47 0 0]
+  /Width 89
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0J0bM2T$ii$]?jnMQI,.!F:^M_s\V?M%cG-?7MPu>gW/->0Ll/-eMPu>gW/->0Ll/-eMPu>gW/->0
+Ll/-eMPu>gW/->0Ll/-eMPu>gW/->0Ll/-eMS'ZTNt2Ide:7~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 336.6 224.4] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+89 -1 L
+89 48 L
+0 48 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+18 33 moveto 
+1 -1 scale
+(Stop) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 75 477] CT
+1 GC
+N
+0 0 35 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 75 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+35 0 L
+35 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+10 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 115.2 477] CT
+1 GC
+N
+0 0 33 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 115.2 477] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+33 0 L
+33 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+9 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 153.6 477] CT
+N
+0 0 M
+0 21 L
+34 21 L
+34 0 L
+cp
+clip
+1 GC
+N
+0 0 34 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 153.6 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+34 0 L
+34 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+10 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 233.4 532.2] CT
+N
+0 0 M
+0 21 L
+179 21 L
+179 0 L
+cp
+clip
+0.94 GC
+N
+0 0 179 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 233.4 532.2] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+179 0 L
+179 21 L
+-1 21 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+0 25 moveto 
+1 -1 scale
+(Number of gain ) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 233.4 532.2] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+179 0 L
+179 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+17 53 moveto 
+1 -1 scale
+(changes left:) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 343.2 531] CT
+N
+0 0 M
+0 25 L
+39 25 L
+39 0 L
+cp
+clip
+0.991 GC
+N
+0 0 39 25 re
+f
+GR
+GS
+[0.6 0 0 0.6 343.2 531] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+40 0 L
+40 25 L
+0 25 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+12 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 59.4 374.4] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 59.4 374.4] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+30 -1 L
+30 21 L
+0 21 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 98.4 374.4] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 98.4 374.4] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+30 -1 L
+30 21 L
+0 21 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 138 375] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 138 375] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 59.4 457.2] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 59.4 457.2] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+30 0 L
+30 21 L
+0 21 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+3 25 moveto 
+1 -1 scale
+(-1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 59.4 457.2] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+31 0 L
+31 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 98.4 457.8] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 98.4 457.8] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+30 -1 L
+30 21 L
+0 21 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+3 25 moveto 
+1 -1 scale
+(-1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 98.4 457.8] CT
+/Helvetica 25 F
+GS
+N
+0 -2 M
+30 -2 L
+30 21 L
+0 21 L
+0 -2 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 138 457.2] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 138 457.2] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 21 L
+0 21 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+3 25 moveto 
+1 -1 scale
+(-1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 138 457.2] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 58.8 293.4] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 58.8 293.4] CT
+/Helvetica 25 F
+GS
+N
+-1 -1 M
+29 -1 L
+29 21 L
+-1 21 L
+-1 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(+) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 58.8 293.4] CT
+/Helvetica 25 F
+GS
+N
+-1 -2 M
+29 -2 L
+29 21 L
+-1 21 L
+-1 -2 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 58.8 293.4] CT
+/Helvetica 25 F
+GS
+N
+-1 -2 M
+29 -2 L
+29 21 L
+-1 21 L
+-1 -2 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 81 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 97.2 292.2] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 97.2 292.2] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+29 0 L
+29 21 L
+-1 21 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(+) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 97.2 292.2] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+29 0 L
+29 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 97.2 292.2] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+29 0 L
+29 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 81 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 136.8 292.2] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 136.8 292.2] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 21 L
+0 21 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(+) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 136.8 292.2] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+30 0 L
+30 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 136.8 292.2] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+31 0 L
+31 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 81 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 96 477] CT
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 96 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+30 0 L
+30 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(d) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 96 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+30 0 L
+30 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 53 moveto 
+1 -1 scale
+(B) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 135.6 477] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 135.6 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(d) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 135.6 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 53 moveto 
+1 -1 scale
+(B) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 174.6 477] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 174.6 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(d) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 174.6 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 53 moveto 
+1 -1 scale
+(B) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 415.2 224.4] CT
+N
+0 0 M
+0 47 L
+89 47 L
+89 0 L
+cp
+clip
+0.7 GC
+N
+0 0 89 47 re
+f
+GR
+GS
+[0.6 0 0 0.6 415.2 224.4] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+90 -1 L
+90 48 L
+0 48 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+4 33 moveto 
+1 -1 scale
+(Submit) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 415.5 224.7] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+1 GC
+2 setlinecap
+2 LJ
+N
+0 0 M
+0 46 L
+S
+GR
+GS
+[0.6 0 0 0.6 415.5 224.7] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+1 GC
+2 setlinecap
+2 LJ
+N
+1 0 M
+87 0 L
+S
+GR
+GS
+[0.6 0 0 0.6 415.5 224.7] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+0.89 GC
+2 setlinecap
+2 LJ
+N
+1 1 M
+1 44 L
+S
+GR
+GS
+[0.6 0 0 0.6 415.5 224.7] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+0.89 GC
+2 setlinecap
+2 LJ
+N
+2 1 M
+86 1 L
+S
+GR
+GS
+[0.6 0 0 0.6 415.5 224.7] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+0.627 GC
+2 setlinecap
+2 LJ
+N
+1 45 M
+87 45 L
+S
+GR
+GS
+[0.6 0 0 0.6 415.5 224.7] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+0.627 GC
+2 setlinecap
+2 LJ
+N
+87 1 M
+87 44 L
+S
+GR
+GS
+[0.6 0 0 0.6 415.5 224.7] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+0.412 GC
+2 setlinecap
+2 LJ
+N
+0 46 M
+88 46 L
+S
+GR
+GS
+[0.6 0 0 0.6 415.5 224.7] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+0.412 GC
+2 setlinecap
+2 LJ
+N
+88 46 M
+88 0 L
+S
+GR
+GS
+[0.6 0 0 0.6 464.4 535.8] CT
+N
+0 0 M
+0 47 L
+89 47 L
+89 0 L
+cp
+clip
+0.3 GC
+N
+0 0 89 47 re
+f
+GR
+GS
+[0.6 0 0 0.6 464.4 535.8] CT
+1 GC
+/Helvetica 25 F
+GS
+N
+-1 -1 M
+89 -1 L
+89 47 L
+-1 47 L
+-1 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+12 33 moveto 
+1 -1 scale
+(Close) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 464.7 536.1] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+1 GC
+2 setlinecap
+2 LJ
+N
+0 0 M
+0 46 L
+S
+GR
+GS
+[0.6 0 0 0.6 464.7 536.1] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+1 GC
+2 setlinecap
+2 LJ
+N
+1 0 M
+87 0 L
+S
+GR
+GS
+[0.6 0 0 0.6 464.7 536.1] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+0.89 GC
+2 setlinecap
+2 LJ
+N
+1 1 M
+1 44 L
+S
+GR
+GS
+[0.6 0 0 0.6 464.7 536.1] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+0.89 GC
+2 setlinecap
+2 LJ
+N
+2 1 M
+86 1 L
+S
+GR
+GS
+[0.6 0 0 0.6 464.7 536.1] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+0.627 GC
+2 setlinecap
+2 LJ
+N
+1 45 M
+87 45 L
+S
+GR
+GS
+[0.6 0 0 0.6 464.7 536.1] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+0.627 GC
+2 setlinecap
+2 LJ
+N
+87 1 M
+87 44 L
+S
+GR
+GS
+[0.6 0 0 0.6 464.7 536.1] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+0.412 GC
+2 setlinecap
+2 LJ
+N
+0 46 M
+88 46 L
+S
+GR
+GS
+[0.6 0 0 0.6 464.7 536.1] CT
+N
+-0.5 -0.5 M
+-0.5 46.5 L
+88.5 46.5 L
+88.5 -0.5 L
+cp
+clip
+0.412 GC
+2 setlinecap
+2 LJ
+N
+88 46 M
+88 0 L
+S
+GR
+GS
+[0.6 0 0 0.6 185.4 225] CT
+N
+0 0 M
+0 47 L
+89 47 L
+89 0 L
+cp
+clip
+0.94 GC
+N
+0 0 89 47 re
+f
+GR
+GS
+[0.6 0 0 0.6 185.4 225] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 47 L
+89 47 L
+89 0 L
+cp
+clip
+GS
+0 0 translate
+89 47 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceRGB setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1 0 1 0 1]
+  /DataSource Data
+  /Height 47
+  /ImageMatrix [89 0 0 47 0 0]
+  /Width 89
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0J0bM2T$ii$]?jnMQI,.!F:^M_s\V?M%cG-?7MPu>gW/->0Ll/-eMPu>gW/->0Ll/-eMPu>gW/->0
+Ll/-eMPu>gW/->0Ll/-eMPu>gW/->0Ll/-eMS'ZTNt2Ide:7~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 185.4 225] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 47 L
+89 47 L
+89 0 L
+cp
+clip
+GS
+0 0 translate
+89 47 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceRGB setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1 0 1 0 1]
+  /DataSource Data
+  /Height 47
+  /ImageMatrix [89 0 0 47 0 0]
+  /Width 89
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0J0bM2T$ii#"k0G2EI,.!F:^M_s\V?M%cG-?7MPu>gW/->0Ll/-eMPu>gW/->0Ll/-eMPu>gW/->0
+Ll/-eMPu>gW/->0Ll/-eMPu>gW/->0Ll/-eMS'ZTNt8qJ35Y~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 185.4 225] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+90 0 L
+90 47 L
+-1 47 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 33 moveto 
+1 -1 scale
+(Play ...) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 195.6 291] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 301 L
+22 301 L
+22 0 L
+cp
+clip
+GS
+0 0 translate
+22 301 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceGray setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1]
+  /DataSource Data
+  /Height 301
+  /ImageMatrix [22 0 0 301 0 0]
+  /Width 22
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0S_$PWG&4FolVi-e&l9&ti.L7Njj<,]n_Ooj5Y^=SL&LNAuVk0?Lp/O,<PZ<&)<p@R*pT5e5.@Wmp
+;%uGr'Lbl@?-QG99Xp7q3`$MZ;%uIHJ*S$Ql>*Eg%W'J<kTh)F7IPXhZk!D](c'k~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 235.8 291] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 301 L
+22 301 L
+22 0 L
+cp
+clip
+GS
+0 0 translate
+22 301 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceGray setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1]
+  /DataSource Data
+  /Height 301
+  /ImageMatrix [22 0 0 301 0 0]
+  /Width 22
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0S]*Z8,%#!SbD[VWcku);L,S8$!SI:':;Z'UF(o5U>,"r\d:>[onX]7BHPZ><i<9_CUmb:Isdh\.%
+U*tnn.#O`I>,D%0M%?aMXs=]M;%uGroVqlcV]JcbG@5cP5pnDN0<4c;BHK-=Jhl*~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 175.8 291] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 175.8 291] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(+) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 175.8 291] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 175.8 291] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 81 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 216 291.6] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 216 291.6] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(+) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 216 291.6] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 216 291.6] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 81 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 177 375] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 177 375] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 216 375.6] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 216 375.6] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 177 458.4] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 177 458.4] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+29 -1 L
+29 21 L
+0 21 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+3 25 moveto 
+1 -1 scale
+(-1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 177 458.4] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+29 -1 L
+29 21 L
+0 21 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 216 459.6] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 216 459.6] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+3 25 moveto 
+1 -1 scale
+(-1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 216 459.6] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 192.6 477] CT
+N
+0 0 M
+0 21 L
+35 21 L
+35 0 L
+cp
+clip
+1 GC
+N
+0 0 35 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 192.6 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+36 0 L
+36 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 25 moveto 
+1 -1 scale
+(-1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 232.2 477] CT
+N
+0 0 M
+0 21 L
+35 21 L
+35 0 L
+cp
+clip
+1 GC
+N
+0 0 35 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 232.2 477] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+35 0 L
+35 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 25 moveto 
+1 -1 scale
+(-2) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 214.2 477] CT
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 214.2 477] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+30 0 L
+30 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(d) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 214.2 477] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+30 0 L
+30 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 53 moveto 
+1 -1 scale
+(B) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 253.2 477] CT
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 253.2 477] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+30 0 L
+30 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(d) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 253.2 477] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+30 0 L
+30 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 53 moveto 
+1 -1 scale
+(B) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 274.8 291] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 302 L
+22 302 L
+22 0 L
+cp
+clip
+GS
+0 0 translate
+22 302 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceGray setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1]
+  /DataSource Data
+  /Height 302
+  /ImageMatrix [22 0 0 302 0 0]
+  /Width 22
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0SYmJ3"$q/KgD[VWcku);L,[a.E3Yr"@8b'!3(o5U>,"r\t:-CI!SZ?c\.B@R^V:(!'gp``nVed[`
+78Xaf;%uGr'LgVf^2;n_gRh[g78XafdD,TPg/QrXf_2#f<-2<'g%u8$&dRjd7FV~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 313.8 291] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 301 L
+22 301 L
+22 0 L
+cp
+clip
+GS
+0 0 translate
+22 301 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceGray setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1]
+  /DataSource Data
+  /Height 301
+  /ImageMatrix [22 0 0 301 0 0]
+  /Width 22
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0S_$PWG&4FolVi-e&l9&ti.L7Njj<,^FnB^V:fKEi7#SY1G;g6J^ql6/Yasp\EWc[9Pqc4C+Pf9Gk
+.#O`IMP;MVU,+X`FRd5mb70<&.#Ob_+8$R;Z"'g&%W'J<kTh)F7IPXHZk"+!,;S$~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 352.8 291] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 303 L
+22 303 L
+22 0 L
+cp
+clip
+GS
+0 0 translate
+22 303 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceGray setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1]
+  /DataSource Data
+  /Height 303
+  /ImageMatrix [22 0 0 303 0 0]
+  /Width 22
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0S_$PWG&4FolVi-e&l9&ti)@3:G'1>C<_k5s6Y^=SL&LNAuV`)dqkGk%Easp\EWc[9Tqc4C+Pg-"s
+.#O`IMP;MVU<f8]ZM<?ejT7hI'Lbk5?*4/%p[tN"B<[rFTYD=c*OGKgd8V)4d9+T~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 392.4 290.4] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 304 L
+22 304 L
+22 0 L
+cp
+clip
+GS
+0 0 translate
+22 304 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceGray setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1]
+  /DataSource Data
+  /Height 304
+  /ImageMatrix [22 0 0 304 0 0]
+  /Width 22
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0SYmJ3"$q/KgD[VWcl!/"V,S3KJ3YquJ:@YN8(o1'l,"r\T:-CEuSZ?c\.B@R^V:(!'gp``nV_jTh
+U*tnn.#Oa+Bte7j_8X_(NM7hYU*tnnkc"L@2fhaem=T7*3itlL!L^Xi5_$$@*(F_^~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 432 291] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 301 L
+22 301 L
+22 0 L
+cp
+clip
+GS
+0 0 translate
+22 301 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceGray setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1]
+  /DataSource Data
+  /Height 301
+  /ImageMatrix [22 0 0 301 0 0]
+  /Width 22
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0S_$PWG&4FolVi-e&l9&ti.L7Njj<,]naIhK;Y^=SL&LNAuVk0?Lp/O,<PZ<&)<p@R*pT5e5.@Wmp
+;%uGr'Lbmk+.=j;QuGoBTqEfkU*tnnlff=;j_Lmb%W'J<kTh)F7IPXhZk!Bm3\oI~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 471 289.8] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 304 L
+22 304 L
+22 0 L
+cp
+clip
+GS
+0 0 translate
+22 304 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceGray setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1]
+  /DataSource Data
+  /Height 304
+  /ImageMatrix [22 0 0 304 0 0]
+  /Width 22
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0SYmJ3"$q/KgD[VWcku);L`*c+;3Yr)\8b'!3(o5U>,"r\t:2QGlc;cliPZ><i<9_C1pT5e5.@Wmp
+;%uGr'Lbk57Ghjoe)H!AQFd\s;%uGrFLD,.hq+e&p;&X%K2uL/JBZmE6%<kS0]?fc~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 509.4 290.4] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 303 L
+22 303 L
+22 0 L
+cp
+clip
+GS
+0 0 translate
+22 303 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceGray setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1]
+  /DataSource Data
+  /Height 303
+  /ImageMatrix [22 0 0 303 0 0]
+  /Width 22
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0S_$PWG&4FolVi-e&l9&ti)@3:G'2V6H_k5s6Y^>.Z&LNAuV`)dqkGk%Easp\EWc[9Tqc4C+Pg-"s
+.#O`IMPB;jc1bn!E3F?_U*tnn.#O`I\l/RuoBB2%cX8hk6%:WQ3bIjXU8^*PX;"d\~>
+
+%AXGEndBitmap
+GR
+GR
+GS
+[0.6 0 0 0.6 271.8 477] CT
+1 GC
+N
+0 0 34 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 271.8 477] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+35 0 L
+35 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 25 moveto 
+1 -1 scale
+(-4) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 312 477] CT
+N
+0 0 M
+0 21 L
+33 21 L
+33 0 L
+cp
+clip
+1 GC
+N
+0 0 33 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 312 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+33 0 L
+33 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+5 25 moveto 
+1 -1 scale
+(-3) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 348.6 477] CT
+N
+0 0 M
+0 21 L
+37 21 L
+37 0 L
+cp
+clip
+1 GC
+N
+0 0 37 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 348.6 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+37 0 L
+37 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(-3) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 390 477] CT
+N
+0 0 M
+0 21 L
+34 21 L
+34 0 L
+cp
+clip
+1 GC
+N
+0 0 34 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 390 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+34 0 L
+34 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+10 25 moveto 
+1 -1 scale
+(1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 427.2 477] CT
+N
+0 0 M
+0 21 L
+36 21 L
+36 0 L
+cp
+clip
+1 GC
+N
+0 0 36 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 427.2 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+36 0 L
+36 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(-1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 465.6 477] CT
+N
+0 0 M
+0 21 L
+39 21 L
+39 0 L
+cp
+clip
+1 GC
+N
+0 0 39 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 465.6 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+39 0 L
+39 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+8 25 moveto 
+1 -1 scale
+(-3) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 504.6 477] CT
+N
+0 0 M
+0 21 L
+39 21 L
+39 0 L
+cp
+clip
+1 GC
+N
+0 0 39 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 504.6 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+39 0 L
+39 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+12 25 moveto 
+1 -1 scale
+(1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 292.8 477] CT
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 292.8 477] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+30 0 L
+30 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(d) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 292.8 477] CT
+/Helvetica 25 F
+GS
+N
+-2 0 M
+31 0 L
+31 22 L
+-2 22 L
+-2 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 53 moveto 
+1 -1 scale
+(B) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 331.8 477] CT
+0.94 GC
+N
+0 0 27 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 331.8 477] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+27 0 L
+27 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 25 moveto 
+1 -1 scale
+(d) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 331.8 477] CT
+/Helvetica 25 F
+GS
+N
+-2 0 M
+27 0 L
+27 22 L
+-2 22 L
+-2 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+5 53 moveto 
+1 -1 scale
+(B) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 370.8 477] CT
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 370.8 477] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+30 0 L
+30 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(d) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 370.8 477] CT
+/Helvetica 25 F
+GS
+N
+-2 0 M
+30 0 L
+30 22 L
+-2 22 L
+-2 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 53 moveto 
+1 -1 scale
+(B) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 410.4 477] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 410.4 477] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+29 0 L
+29 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(d) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 410.4 477] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+29 0 L
+29 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 53 moveto 
+1 -1 scale
+(B) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 449.4 477] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 449.4 477] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+29 0 L
+29 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(d) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 449.4 477] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+29 0 L
+29 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 53 moveto 
+1 -1 scale
+(B) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 489 477] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 489 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(d) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 489 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 53 moveto 
+1 -1 scale
+(B) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 528 477] CT
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 528 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+30 0 L
+30 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(d) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 528 477] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+30 0 L
+30 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 53 moveto 
+1 -1 scale
+(B) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 254.4 290.4] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 254.4 290.4] CT
+/Helvetica 25 F
+GS
+N
+-1 -1 M
+29 -1 L
+29 21 L
+-1 21 L
+-1 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(+) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 254.4 290.4] CT
+/Helvetica 25 F
+GS
+N
+-1 -2 M
+30 -2 L
+30 21 L
+-1 21 L
+-1 -2 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 254.4 290.4] CT
+/Helvetica 25 F
+GS
+N
+-1 -2 M
+30 -2 L
+30 21 L
+-1 21 L
+-1 -2 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 81 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 293.4 291] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 293.4 291] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+29 0 L
+29 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(+) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 293.4 291] CT
+/Helvetica 25 F
+GS
+N
+-2 0 M
+29 0 L
+29 22 L
+-2 22 L
+-2 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 293.4 291] CT
+/Helvetica 25 F
+GS
+N
+-2 0 M
+29 0 L
+29 22 L
+-2 22 L
+-2 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 81 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 332.4 290.4] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 332.4 290.4] CT
+/Helvetica 25 F
+GS
+N
+-1 -1 M
+29 -1 L
+29 21 L
+-1 21 L
+-1 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(+) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 332.4 290.4] CT
+/Helvetica 25 F
+GS
+N
+-1 -2 M
+29 -2 L
+29 21 L
+-1 21 L
+-1 -2 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 332.4 290.4] CT
+/Helvetica 25 F
+GS
+N
+-1 -2 M
+29 -2 L
+29 21 L
+-1 21 L
+-1 -2 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 81 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 372.6 289.8] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 372.6 289.8] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+29 -1 L
+29 21 L
+0 21 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(+) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 372.6 289.8] CT
+/Helvetica 25 F
+GS
+N
+0 -2 M
+29 -2 L
+29 21 L
+0 21 L
+0 -2 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 372.6 289.8] CT
+/Helvetica 25 F
+GS
+N
+0 -2 M
+29 -2 L
+29 21 L
+0 21 L
+0 -2 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 81 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 412.2 291] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 412.2 291] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+30 0 L
+30 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(+) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 412.2 291] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+30 0 L
+30 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 412.2 291] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+30 0 L
+30 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 81 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 450.6 292.2] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 450.6 292.2] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 21 L
+0 21 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(+) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 450.6 292.2] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 450.6 292.2] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+29 0 L
+29 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 81 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 488.4 292.2] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 488.4 292.2] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+29 0 L
+29 21 L
+-1 21 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(+) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 488.4 292.2] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+29 0 L
+29 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 488.4 292.2] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+29 0 L
+29 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 81 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 253.2 375] CT
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 253.2 375] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+30 0 L
+30 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 294.6 374.4] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 294.6 374.4] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+30 -1 L
+30 21 L
+0 21 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 334.2 374.4] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 334.2 374.4] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+30 -1 L
+30 21 L
+0 21 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 373.2 375] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 373.2 375] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+30 0 L
+30 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 412.8 375.6] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 412.8 375.6] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+30 0 L
+30 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 451.8 375] CT
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 451.8 375] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+30 0 L
+30 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 491.4 374.4] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 491.4 374.4] CT
+/Helvetica 25 F
+GS
+N
+-1 -1 M
+29 -1 L
+29 21 L
+-1 21 L
+-1 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(0) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 255.6 458.4] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 255.6 458.4] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+29 -1 L
+29 21 L
+0 21 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+3 25 moveto 
+1 -1 scale
+(-1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 255.6 458.4] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+29 -1 L
+29 21 L
+0 21 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 294.6 459] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 294.6 459] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+30 0 L
+30 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+3 25 moveto 
+1 -1 scale
+(-1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 294.6 459] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+31 0 L
+31 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 334.2 458.4] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 334.2 458.4] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+30 -1 L
+30 21 L
+0 21 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+3 25 moveto 
+1 -1 scale
+(-1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 334.2 458.4] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+30 -1 L
+30 21 L
+0 21 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 373.2 458.4] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 373.2 458.4] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+30 -1 L
+30 21 L
+0 21 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+3 25 moveto 
+1 -1 scale
+(-1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 373.2 458.4] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+30 -1 L
+30 21 L
+0 21 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 412.8 459] CT
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 412.8 459] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+30 0 L
+30 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+3 25 moveto 
+1 -1 scale
+(-1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 412.8 459] CT
+/Helvetica 25 F
+GS
+N
+-2 0 M
+30 0 L
+30 22 L
+-2 22 L
+-2 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 451.8 460.8] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 451.8 460.8] CT
+/Helvetica 25 F
+GS
+N
+-1 -1 M
+30 -1 L
+30 21 L
+-1 21 L
+-1 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+3 25 moveto 
+1 -1 scale
+(-1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 451.8 460.8] CT
+/Helvetica 25 F
+GS
+N
+-2 -2 M
+30 -2 L
+30 21 L
+-2 21 L
+-2 -2 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 491.4 457.2] CT
+N
+0 0 M
+0 21 L
+29 21 L
+29 0 L
+cp
+clip
+0.94 GC
+N
+0 0 29 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 491.4 457.2] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+29 0 L
+29 21 L
+-1 21 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+3 25 moveto 
+1 -1 scale
+(-1) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 491.4 457.2] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+29 0 L
+29 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 53 moveto 
+1 -1 scale
+(5) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 211.8 505.8] CT
+N
+0 0 M
+0 25 L
+298 25 L
+298 0 L
+cp
+clip
+0.991 GC
+N
+0 0 298 25 re
+f
+GR
+GS
+[0.6 0 0 0.6 211.8 505.8] CT
+/Helvetica 25 F
+GS
+N
+0 -1 M
+299 -1 L
+299 25 L
+0 25 L
+0 -1 L
+cp
+clip
+[1 0 0 1 0 0] CT
+48 25 moveto 
+1 -1 scale
+(Please use slider ) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 211.8 505.8] CT
+/Helvetica 25 F
+GS
+N
+0 -2 M
+300 -2 L
+300 25 L
+0 25 L
+0 -2 L
+cp
+clip
+[1 0 0 1 0 0] CT
+37 53 moveto 
+1 -1 scale
+(4,5,6,7,8,9,10,11,12) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 66 273] CT
+1 GC
+N
+0 0 64 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 66 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+65 0 L
+65 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+2 25 moveto 
+1 -1 scale
+(100H) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 66 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+65 0 L
+65 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+26 53 moveto 
+1 -1 scale
+(z) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 108 273] CT
+1 GC
+N
+0 0 56 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 108 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+57 0 L
+57 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(125) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 108 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+57 0 L
+57 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+13 53 moveto 
+1 -1 scale
+(Hz) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 145.8 273] CT
+N
+0 0 M
+0 21 L
+59 21 L
+59 0 L
+cp
+clip
+1 GC
+N
+0 0 59 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 145.8 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+59 0 L
+59 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+8 25 moveto 
+1 -1 scale
+(160) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 145.8 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+60 0 L
+60 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+14 53 moveto 
+1 -1 scale
+(Hz) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 184.8 273] CT
+N
+0 0 M
+0 21 L
+62 21 L
+62 0 L
+cp
+clip
+1 GC
+N
+0 0 62 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 184.8 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+62 0 L
+62 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+1 25 moveto 
+1 -1 scale
+(200H) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 184.8 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+62 0 L
+62 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+25 53 moveto 
+1 -1 scale
+(z) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 225 273] CT
+N
+0 0 M
+0 21 L
+59 21 L
+59 0 L
+cp
+clip
+1 GC
+N
+0 0 59 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 225 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+59 0 L
+59 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+8 25 moveto 
+1 -1 scale
+(250) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 225 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+59 0 L
+59 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+14 53 moveto 
+1 -1 scale
+(Hz) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 263.4 273] CT
+N
+0 0 M
+0 21 L
+59 21 L
+59 0 L
+cp
+clip
+1 GC
+N
+0 0 59 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 263.4 273] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+59 0 L
+59 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+8 25 moveto 
+1 -1 scale
+(315) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 263.4 273] CT
+/Helvetica 25 F
+GS
+N
+-2 0 M
+59 0 L
+59 22 L
+-2 22 L
+-2 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+14 53 moveto 
+1 -1 scale
+(Hz) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 302.4 273] CT
+1 GC
+N
+0 0 62 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 302.4 273] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+63 0 L
+63 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+1 25 moveto 
+1 -1 scale
+(400H) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 302.4 273] CT
+/Helvetica 25 F
+GS
+N
+-2 0 M
+63 0 L
+63 22 L
+-2 22 L
+-2 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+25 53 moveto 
+1 -1 scale
+(z) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 342.6 273] CT
+N
+0 0 M
+0 21 L
+59 21 L
+59 0 L
+cp
+clip
+1 GC
+N
+0 0 59 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 342.6 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+59 0 L
+59 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+8 25 moveto 
+1 -1 scale
+(500) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 342.6 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+59 0 L
+59 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+14 53 moveto 
+1 -1 scale
+(Hz) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 381 273] CT
+N
+0 0 M
+0 21 L
+56 21 L
+56 0 L
+cp
+clip
+1 GC
+N
+0 0 56 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 381 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+57 0 L
+57 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(630) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 381 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+57 0 L
+57 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+13 53 moveto 
+1 -1 scale
+(Hz) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 418.8 273] CT
+1 GC
+N
+0 0 64 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 418.8 273] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+65 0 L
+65 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+2 25 moveto 
+1 -1 scale
+(800H) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 418.8 273] CT
+/Helvetica 25 F
+GS
+N
+-2 0 M
+65 0 L
+65 22 L
+-2 22 L
+-2 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+26 53 moveto 
+1 -1 scale
+(z) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 460.8 273] CT
+N
+0 0 M
+0 21 L
+56 21 L
+56 0 L
+cp
+clip
+1 GC
+N
+0 0 56 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 460.8 273] CT
+/Helvetica 25 F
+GS
+N
+-1 0 M
+56 0 L
+56 22 L
+-1 22 L
+-1 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+7 25 moveto 
+1 -1 scale
+(100) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 460.8 273] CT
+/Helvetica 25 F
+GS
+N
+-2 0 M
+56 0 L
+56 22 L
+-2 22 L
+-2 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+6 53 moveto 
+1 -1 scale
+(0Hz) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 498 273] CT
+N
+0 0 M
+0 21 L
+58 21 L
+58 0 L
+cp
+clip
+1 GC
+N
+0 0 58 21 re
+f
+GR
+GS
+[0.6 0 0 0.6 498 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+58 0 L
+58 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+1 25 moveto 
+1 -1 scale
+(1250) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 498 273] CT
+/Helvetica 25 F
+GS
+N
+0 0 M
+59 0 L
+59 22 L
+0 22 L
+0 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+14 53 moveto 
+1 -1 scale
+(Hz) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 49.2 195.6] CT
+N
+0 0 M
+0 34 L
+178 34 L
+178 0 L
+cp
+clip
+1 GC
+N
+0 0 178 34 re
+f
+GR
+GS
+[0.6 0 0 0.6 49.2 195.6] CT
+/Helvetica 25 F
+GS
+N
+2 0 M
+177 0 L
+177 34 L
+2 34 L
+2 0 L
+cp
+clip
+[1 0 0 1 0 0] CT
+67 26 moveto 
+1 -1 scale
+(005) t 
+GR
+GR
+GS
+[0.6 0 0 0.6 49.2 195.6] CT
+N
+0 0 M
+0 34 L
+178 34 L
+178 0 L
+cp
+clip
+0.679 GC
+N
+0 0 M
+178 0 L
+178 34 L
+0 34 L
+0 0 L
+cp
+1 1 M
+177 1 L
+177 33 L
+1 33 L
+1 1 L
+cp
+eofill
+GR
+GS
+[0.6 0 0 0.6 157.2 291] CT
+[1 0 0 1 0 0] CT
+N
+0 0 M
+0 300 L
+22 300 L
+22 0 L
+cp
+clip
+GS
+0 0 translate
+22 300 scale
+%AXGBeginBitmap: java.awt.image.BufferedImage
+{{
+/RawData currentfile /ASCII85Decode filter def
+/Data RawData /FlateDecode filter def
+/DeviceGray setcolorspace
+<<
+  /ImageType 1
+  /Decode [0 1]
+  /DataSource Data
+  /Height 300
+  /ImageMatrix [22 0 0 300 0 0]
+  /Width 22
+  /BitsPerComponent 8
+>> image
+} stopped {handleerror} if
+  RawData flushfile
+} exec
+Gb"0S5mkCM$q/M7H4,chVs?B&Ybd/\,i)$"nn7b,W8!86P%$"4Qc@F\W_=^-Q(3V%'DlVG^q07i8]anl
+,S`aF'Lbk578Xaf;%uGr'LhcC\4=$CHA7cPi5XC^3'Ngh2?r<ur;>THi<4NH0=_~>
+
+%AXGEndBitmap
+GR
+GR
+showpage
+%%Trailer
+%%Pages: 1
+%%EOF
